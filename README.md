@@ -18,7 +18,7 @@ Built using:
 
 ---
 
-## 🔬 Models Included
+## Models Included
 
 - **Logistic Regression:** baseline model with feature impact visualizations
 - **Neural Network:** 2 hidden layers + dropout regularization
@@ -29,7 +29,7 @@ Built using:
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 | Model              | Accuracy | Macro AUC | Notes                           |
 |-------------------|----------|-----------|----------------------------------|
