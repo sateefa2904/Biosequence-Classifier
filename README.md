@@ -13,7 +13,7 @@ This project implements a full-stack machine learning pipeline to classify DNA s
 - ROC, confusion matrix, cross-validation & precision-recall plots
 - Model interpretability through top features
 
-Built with love using:  
+Built using:  
 `scikit-learn`, `TensorFlow/Keras`, `matplotlib`, `seaborn`, `shap`
 
 ---
@@ -46,7 +46,7 @@ Built with love using:
 <center><img src="outputs/conf_matrix_nn.png" width="400"/></center>
 
 ### ROC Curve
-<center><img src="outputs/roc_comparison_multiclass.png" width="500"/></center>
+<center><img src="outputs/roc_comparison_multiclass.png" width="400"/></center>
 
 ### Precision & Recall by Class
 <center><img src="outputs/nn_precision_recall.png" width="400"/></center>
@@ -84,12 +84,7 @@ Built with love using:
 
 ## Try It Yourself
 
-Clone the repo and run the classifier:
-git clone https://github.com/sateefa2904/Biosequence-Classifier.git
-cd Biosequence-Classifier
-pip install -r requirements.txt
-python classifier.py
-
+<pre> ```bash git clone https://github.com/sateefa2904/Biosequence-Classifier.git cd Biosequence-Classifier pip install -r requirements.txt python classifier.py ``` </pre>
 
 ## Future Work
 
