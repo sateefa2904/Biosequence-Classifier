@@ -42,21 +42,21 @@ Built using:
 ## Outputs (Visuals)
 
 ### Confusion Matrices
-<center><img src="outputs/conf_matrix_logreg.png" width="400"/></center>  
-<center><img src="outputs/conf_matrix_nn.png" width="400"/></center>
+<center><img src="outputs/conf_matrix_logreg.png" width="500"/></center>  
+<center><img src="outputs/conf_matrix_nn.png" width="500"/></center>
 
 ### ROC Curve
-<center><img src="outputs/roc_comparison_multiclass.png" width="400"/></center>
+<center><img src="outputs/roc_comparison_multiclass.png" width="500"/></center>
 
 ### Precision & Recall by Class
-<center><img src="outputs/nn_precision_recall.png" width="400"/></center>
+<center><img src="outputs/nn_precision_recall.png" width="500"/></center>
 
 ### Training Diagnostics
-<center><img src="outputs/nn_accuracy_loss.png" width="400"/></center>
+<center><img src="outputs/nn_accuracy_loss.png" width="500"/></center>
 
 ### Top Features & SHAP
-<center><img src="outputs/top_features_logreg.png" width="400"/></center>  
-<center><img src="outputs/shap_logreg.png" width="400"/></center>
+<center><img src="outputs/top_features_logreg.png" width="500"/></center>  
+<center><img src="outputs/shap_logreg.png" width="500"/></center>
 
 ---
 
