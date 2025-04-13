@@ -1,9 +1,9 @@
-# 🧬 Biosequence Classifier
+# Biosequence Classifier
 A Multi-Model Pipeline for Classifying DNA Sequences using Logistic Regression, Neural Networks, SHAP, and Ensemble Learning.
 
 ---
 
-## 💡 Overview
+## Overview
 
 This project implements a full-stack machine learning pipeline to classify DNA sequences into biological classes using both traditional and deep learning models. It features:
 
@@ -39,28 +39,28 @@ Built with love using:
 
 ---
 
-## 📁 Outputs (Visuals)
+## Outputs (Visuals)
 
-### 🔹 Confusion Matrices
+### Confusion Matrices
 <center><img src="outputs/conf_matrix_logreg.png" width="400"/></center>  
 <center><img src="outputs/conf_matrix_nn.png" width="400"/></center>
 
-### 🔹 ROC Curve
+### ROC Curve
 <center><img src="outputs/roc_comparison_multiclass.png" width="500"/></center>
 
-### 🔹 Precision & Recall by Class
+### Precision & Recall by Class
 <center><img src="outputs/nn_precision_recall.png" width="400"/></center>
 
-### 🔹 Training Diagnostics
-<center><img src="outputs/nn_accuracy_loss.png" width="500"/></center>
+### Training Diagnostics
+<center><img src="outputs/nn_accuracy_loss.png" width="400"/></center>
 
-### 🔹 Top Features & SHAP
+### Top Features & SHAP
 <center><img src="outputs/top_features_logreg.png" width="400"/></center>  
-<center><img src="outputs/shap_logreg.png" width="500"/></center>
+<center><img src="outputs/shap_logreg.png" width="400"/></center>
 
 ---
 
-## 🧠 Project Structure
+## Project Structure
 - `classifier.py` — Main training + evaluation pipeline
 - `dna.csv.zip` — Zipped dataset
 - `requirements.txt` — List of required packages
@@ -85,19 +85,16 @@ Built with love using:
 ## Try It Yourself
 
 Clone the repo and run the classifier:
-
-```bash
 git clone https://github.com/sateefa2904/Biosequence-Classifier.git
 cd Biosequence-Classifier
 pip install -r requirements.txt
 python classifier.py
 
----
 
 ## Future Work
 
--  **Explore advanced architectures**  
-  Integrate CNNs or RNNs to better capture sequential DNA features.
+- **Explore advanced architectures**  
+    Integrate CNNs or RNNs to better capture sequential DNAfeatures.
 
 -  **Benchmark on real-world genomic datasets**  
   Test the model's robustness on public biological datasets.
@@ -119,6 +116,3 @@ python classifier.py
 *Bioinformatics • Deep Learning • Data Aesthetics*
 - [LinkedIn](https://www.linkedin.com/in/sateefa2904)  
 - [GitHub](https://github.com/sateefa2904)
-
-
-

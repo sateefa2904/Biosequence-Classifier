@@ -2,7 +2,9 @@ __pycache__/
 *.pyc
 *.h5
 *.keras
-outputs/
+outputs/*
+!outputs/*.png
+!outputs/*.csv
 data/
 .env
 .venv
