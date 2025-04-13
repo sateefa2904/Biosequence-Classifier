@@ -91,26 +91,21 @@ Built using:
 
 ## Future Work
 
-- **Explore advanced architectures**  
-    Integrate CNNs or RNNs to better capture sequential DNAfeatures.
+- **Explore advanced architectures** : Integrate CNNs or RNNs to better capture sequential DNAfeatures.
 
--  **Benchmark on real-world genomic datasets**  
-  Test the model's robustness on public biological datasets.
+-  **Benchmark on real-world genomic datasets** : Test the model's robustness on public biological datasets.
 
--  **Deploy the pipeline**  
-  Package the classifier using Flask or Streamlit for interactive, web-based predictions.
+-  **Deploy the pipeline** : Package the classifier using Flask or Streamlit for interactive, web-based predictions.
 
--  **Automate model selection**  
-  Add automated ensembling or AutoML approaches for tuning.
+-  **Automate model selection** : Add automated ensembling or AutoML approaches for tuning.
 
--  **Dataset expansion**  
-  Integrate additional features like nucleotide k-mer frequency or methylation signals.
+-  **Dataset expansion** : Integrate additional features like nucleotide k-mer frequency or methylation signals.
 
 ---
 
 ## Author
 
-**Soli Ateefa**  
-*Bioinformatics • Deep Learning • Data Aesthetics*
-- [LinkedIn](https://www.linkedin.com/in/sateefa2904)  
-- [GitHub](https://github.com/sateefa2904)
+**Soli Ateefa**
+- *Bioinformatics • Deep Learning • Data Aesthetics*
+    - [LinkedIn](https://www.linkedin.com/in/sateefa2904)
+    - [GitHub](https://github.com/sateefa2904)
