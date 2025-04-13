@@ -84,7 +84,10 @@ Built using:
 
 ## Try It Yourself
 
-<pre> ```bash git clone https://github.com/sateefa2904/Biosequence-Classifier.git cd Biosequence-Classifier pip install -r requirements.txt python classifier.py ``` </pre>
+<pre> git clone https://github.com/sateefa2904/Biosequence-Classifier.git </pre>
+<pre> cd Biosequence-Classifier </pre>
+<pre> pip install -r requirements.txt </pre>
+<pre> python classifier.py </pre>
 
 ## Future Work
 
