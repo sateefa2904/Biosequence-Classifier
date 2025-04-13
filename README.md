@@ -103,9 +103,6 @@ Built using:
 
 ---
 
-## Author
-
-**Soli Ateefa**
-- *Bioinformatics • Deep Learning • Data Aesthetics*
+*Bioinformatics • Deep Learning • Data Aesthetics*
     - [LinkedIn](https://www.linkedin.com/in/sateefa2904)
     - [GitHub](https://github.com/sateefa2904)
