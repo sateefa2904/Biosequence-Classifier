@@ -46,20 +46,20 @@ Also includes:
 
 ## 🧠 Project Structure
 BiosequenceClassifier/
-├── classifier.py              # Main script for model training, evaluation, and plotting
-├── dna.csv.zip                # Zipped CSV file containing the DNA dataset
-├── outputs/                   # Directory with auto-generated graphs and model outputs
-│   ├── conf_matrix_logreg.png
-│   ├── conf_matrix_nn.png
-│   ├── nn_accuracy_loss.png
-│   ├── nn_precision_recall.png
-│   ├── roc_comparison_multiclass.png
-│   ├── top_features_logreg.png
-│   ├── shap_logreg.png
-│   ├── cv_logreg.png
-│   └── model_summary.csv
-├── promoter_nn_model.h5       # Saved Keras model (HDF5 format, legacy)
-└── promoter_nn_model.keras    # Saved Keras model in native Keras format
+    ├── classifier.py              # Main script for model training, evaluation, and plotting
+    ├── dna.csv.zip                # Zipped CSV file containing the DNA dataset
+    ├── outputs/                   # Directory with auto-generated graphs and model outputs
+    │   ├── conf_matrix_logreg.png
+    │   ├── conf_matrix_nn.png
+    │   ├── nn_accuracy_loss.png
+    │   ├── nn_precision_recall.png
+    │   ├── roc_comparison_multiclass.png
+    │   ├── top_features_logreg.png
+    │   ├── shap_logreg.png
+    │   ├── cv_logreg.png
+    │   └── model_summary.csv
+    ├── promoter_nn_model.h5       # Saved Keras model (HDF5 format, legacy)
+    └── promoter_nn_model.keras    # Saved Keras model in native Keras format
 
 ---
 
