@@ -104,5 +104,5 @@ Built using:
 ---
 
 *Bioinformatics • Deep Learning • Data Aesthetics*
-    - [LinkedIn](https://www.linkedin.com/in/sateefa2904)
-    - [GitHub](https://github.com/sateefa2904)
+- [LinkedIn](https://www.linkedin.com/in/sateefa2904)
+- [GitHub](https://github.com/sateefa2904)
