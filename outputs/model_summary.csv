@@ -1,0 +1,4 @@
+Model,Accuracy,AUC (macro avg),Notes
+Logistic Regression,0.9435736677115988,0.9918652758537285,Default LR
+Neural Network,0.9373040752351097,0.9902540605000906,2-layer NN + Dropout
+Voting Ensemble,0.9482758620689655,,Soft voting (LR + NN)
